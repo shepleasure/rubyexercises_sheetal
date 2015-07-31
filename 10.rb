@@ -8,13 +8,13 @@ when 'tuesday'
   puts "It's Tuesday!!"
 when 'wednesday'
   puts "It's Wednesday!!"
-  when 'thursday'
+when 'thursday'
   puts "It's Thursday!!"
-  when 'friday'
+when 'friday'
   puts "It's Friday!!"
-  when 'sunday'
+when 'sunday'
   puts "It's Sunday!!"
-  when 'saturday'
+when 'saturday'
   puts "It's Saturday!!"
 else
   puts "Enter valid day"
